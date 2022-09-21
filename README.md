@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmad Fani</h1>
-<h3 align="center">I'm a noob Android developer who is constantly trying to learn new things.</h3>
+<h3 align="center">I'm an Android developer who is constantly trying to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UsmanFani&label=Profile%20views&color=0e75b6&style=flat" alt="UsmanFani" /> </p>
 
