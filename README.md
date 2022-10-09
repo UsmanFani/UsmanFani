@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Usman Ahmad Fani</h1>
 <h3 align="center">I'm an Android developer who is constantly trying to learn new things.</h3>
 
+[![@usmanfani's Holopin board](https://holopin.io/api/user/board?user=usmanfani)](https://holopin.io/@usmanfani)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UsmanFani&label=Profile%20views&color=0e75b6&style=flat" alt="UsmanFani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UsmanFani" alt="UsmanFani" /></a> </p>
