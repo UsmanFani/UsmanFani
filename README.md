@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UsmanFani" alt="UsmanFani" /></a> </p>
 
-- 🔭 I’m currently Leetcoding & working on **Personal Portfolio Project**
+- 🔭 I’m currently Leetcoding & working on **Personal Project**
 
 - 🌱 I’m currently learning **Android Jetpack**
 
